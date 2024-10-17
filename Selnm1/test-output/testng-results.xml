@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Hii]]>
+    </line>
+    <line>
+      <![CDATA[Hello]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-09-08T19:28:23 IST" name="Default suite" finished-at="2024-09-08T19:28:23 IST" duration-ms="40">
+    <groups>
+    </groups>
+    <test started-at="2024-09-08T19:28:23 IST" name="Default test" finished-at="2024-09-08T19:28:23 IST" duration-ms="40">
+      <class name="testNg.TestNg_demo">
+        <test-method signature="test()[pri:0, instance:testNg.TestNg_demo@2f8dad04]" started-at="2024-09-08T19:28:23 IST" name="test" finished-at="2024-09-08T19:28:23 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Hii]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test1()[pri:0, instance:testNg.TestNg_demo@2f8dad04]" started-at="2024-09-08T19:28:23 IST" name="test1" finished-at="2024-09-08T19:28:23 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Hello]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- testNg.TestNg_demo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
